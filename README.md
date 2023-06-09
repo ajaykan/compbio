@@ -1,1 +1,1 @@
-# compbio
+# Computational Biology Toolkit
